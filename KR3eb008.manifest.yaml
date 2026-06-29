@@ -1,0 +1,1427 @@
+canonical_identifier: bkk:krp/KR3eb008/v1
+canonical_location: https://kanripo.org/bkk/KR3eb008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫階辨證
+  identifiers:
+    krp: KR3eb008
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb008.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb008_000.yaml, hash: 'sha256:8c8b3514148ba6d410cf55a182a03515cc91006f9ba28ed715767ecddafdf946'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb008_000.markers.yaml, hash: 'sha256:4a96982be895a33660462caac4d91be5e8b9ce71bf4aae158fedc63e4a645274'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 1
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5
+  label: 猝中暴厥辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d4.h1s1
+    span:
+    - body
+    - 5
+    - 10
+  label: 暴厥五證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d5.h1s1
+    span:
+    - body
+    - 10
+    - 338
+  label: 中風類中辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d6.h1s1
+    span:
+    - body
+    - 338
+    - 346
+  label: 口噤涎潮同糞異辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d7.h1s1
+    span:
+    - body
+    - 346
+    - 350
+  label: 諸瘖證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d8.h1s1
+    span:
+    - body
+    - 350
+    - 483
+  label: 半身不遂手足不隨麻木不仁痿躄軃曳辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d9.h1s1
+    span:
+    - body
+    - 483
+    - 488
+  label: 偏枯三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d10.h1s1
+    span:
+    - body
+    - 488
+    - 493
+  label: 喎僻五證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d11.h1s1
+    span:
+    - body
+    - 493
+    - 500
+  label: 冬令外傷七證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d12.h1s1
+    span:
+    - body
+    - 500
+    - 507
+  label: 春令外傷七證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d13.h1s1
+    span:
+    - body
+    - 507
+    - 514
+  label: 夏令外傷七證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d14.h1s1
+    span:
+    - body
+    - 514
+    - 521
+  label: 秋令久傷三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d15.h1s1
+    span:
+    - body
+    - 521
+    - 526
+  label: 溫疫三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d16.h1s1
+    span:
+    - body
+    - 526
+    - 535
+  label: 暑霍亂寒霍亂二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d17.h1s1
+    span:
+    - body
+    - 535
+    - 539
+  label: 吐利證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d18.h1s1
+    span:
+    - body
+    - 539
+    - 546
+  label: 四時瘧十二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d19.h1s1
+    span:
+    - body
+    - 546
+    - 550
+  label: 傷飲證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d20.h1s1
+    span:
+    - body
+    - 550
+    - 557
+  label: 傷食食傷脾胃辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d21.h1s1
+    span:
+    - body
+    - 557
+    - 568
+  label: 惡食不能飢不欲食三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d22.h1s1
+    span:
+    - body
+    - 568
+    - 577
+  label: 飢飽傷中勞役傷中辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d23.h1s1
+    span:
+    - body
+    - 577
+    - 582
+  label: 外傷內傷辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d24.h1s1
+    span:
+    - body
+    - 582
+    - 591
+  label: 內傷脾胃內傷肝腎辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d25.h1s1
+    span:
+    - body
+    - 591
+    - 597
+  label: 虛損勞傷極辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d26.h1s1
+    span:
+    - body
+    - 597
+    - 607
+  label: 頭痛寒熱內外十五證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d27.h1s1
+    span:
+    - body
+    - 607
+    - 612
+  label: 真熱假熱辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d28.h1s1
+    span:
+    - body
+    - 612
+    - 619
+  label: 陰分潮熱三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d29.h1s1
+    span:
+    - body
+    - 619
+    - 624
+  label: 痰食潮熱辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d30.h1s1
+    span:
+    - body
+    - 624
+    - 630
+  label: 心煩內外證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d31.h1s1
+    span:
+    - body
+    - 630
+    - 636
+  label: 惡寒反惡寒辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d32.h1s1
+    span:
+    - body
+    - 636
+    - 642
+  label: 背惡寒三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d33.h1s1
+    span:
+    - body
+    - 642
+    - 647
+  label: 振慄五證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d34.h1s1
+    span:
+    - body
+    - 647
+    - 652
+  label: 寒熱八證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d35.h1s1
+    span:
+    - body
+    - 652
+    - 659
+  label: 陽厥陰厥寒厥辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d36.h1s1
+    span:
+    - body
+    - 659
+    - 664
+  label: 六郁為病辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d37.h1s1
+    span:
+    - body
+    - 664
+    - 668
+  label: 郁痞證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d38.h1s1
+    span:
+    - body
+    - 668
+    - 675
+  label: 痰生百病八症辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d39.h1s1
+    span:
+    - body
+    - 675
+    - 682
+  label: 飲生諸病五證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d40.h1s1
+    span:
+    - body
+    - 682
+    - 687
+  label: 痰飲涎沫辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d41.h1s1
+    span:
+    - body
+    - 687
+    - 695
+  label: 咳嗽分證合兼證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d42.h1s1
+    span:
+    - body
+    - 695
+    - 702
+  label: 喘哮短氣三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d43.h1s1
+    span:
+    - body
+    - 702
+    - 708
+  label: 喘上氣二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d44.h1s1
+    span:
+    - body
+    - 708
+    - 715
+  label: 短氣少氣二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d45.h1s1
+    span:
+    - body
+    - 715
+    - 720
+  label: 吐噦三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d46.h1s1
+    span:
+    - body
+    - 720
+    - 727
+  label: 噯氣呃逆二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d47.h1s1
+    span:
+    - body
+    - 727
+    - 736
+  label: 噎膈膈咽不通三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d48.h1s1
+    span:
+    - body
+    - 736
+    - 741
+  label: 走哺關格辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d49.h1s1
+    span:
+    - body
+    - 741
+    - 748
+  label: 噎膈反胃三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d50.h1s1
+    span:
+    - body
+    - 748
+    - 753
+  label: 嘈雜心瘥辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d51.h1s1
+    span:
+    - body
+    - 753
+    - 762
+  label: 嘈雜懊憹煩躁三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d52.h1s1
+    span:
+    - body
+    - 762
+    - 772
+  label: 心下痞胸痹胸痛三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d53.h1s1
+    span:
+    - body
+    - 772
+    - 779
+  label: 水腫氣腫二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d54.h1s1
+    span:
+    - body
+    - 779
+    - 784
+  label: 水腫水脹辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d55.h1s1
+    span:
+    - body
+    - 784
+    - 793
+  label: 水脹氣血脹谷四證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d56.h1s1
+    span:
+    - body
+    - 793
+    - 798
+  label: 中滿如脹辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d57.h1s1
+    span:
+    - body
+    - 798
+    - 807
+  label: 內傷發黃外傷發黃辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d58.h1s1
+    span:
+    - body
+    - 807
+    - 812
+  label: 疸黃二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d59.h1s1
+    span:
+    - body
+    - 812
+    - 816
+  label: 五疸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d60.h1s1
+    span:
+    - body
+    - 816
+    - 822
+  label: 黃腫疳血黃辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d61.h1s1
+    span:
+    - body
+    - 822
+    - 829
+  label: 癥瘕痃癖四證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d62.h1s1
+    span:
+    - body
+    - 829
+    - 832
+  label: 五積辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d63.h1s1
+    span:
+    - body
+    - 832
+    - 835
+  label: 積聚辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d64.h1s1
+    span:
+    - body
+    - 835
+    - 841
+  label: 諸積兼見證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d65.h1s1
+    span:
+    - body
+    - 841
+    - 846
+  label: 息奔息積辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d66.h1s1
+    span:
+    - body
+    - 846
+    - 852
+  label: 新血衄血畜辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d67.h1s1
+    span:
+    - body
+    - 852
+    - 854
+  label: 色辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d68.h1s1
+    span:
+    - body
+    - 854
+    - 861
+  label: 口中出血諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d69.h1s1
+    span:
+    - body
+    - 861
+    - 867
+  label: 鼻衄血二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d70.h1s1
+    span:
+    - body
+    - 867
+    - 872
+  label: 溲血淋血辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d71.h1s1
+    span:
+    - body
+    - 872
+    - 877
+  label: 下血諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d72.h1s1
+    span:
+    - body
+    - 877
+    - 881
+  label: 久痛證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d73.h1s1
+    span:
+    - body
+    - 881
+    - 885
+  label: 內痛證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d74.h1s1
+    span:
+    - body
+    - 885
+    - 890
+  label: 頭痛分經辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d75.h1s1
+    span:
+    - body
+    - 890
+    - 894
+  label: 厥氣痛辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d76.h1s1
+    span:
+    - body
+    - 894
+    - 903
+  label: 大頭瘟雷頭風二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d77.h1s1
+    span:
+    - body
+    - 903
+    - 911
+  label: 頭面腫痛分症經辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d78.h1s1
+    span:
+    - body
+    - 911
+    - 926
+  label: 心痛心胞絡痛胃痛脾痛胸痛膈痛辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d79.h1s1
+    span:
+    - body
+    - 926
+    - 931
+  label: 三陰腹痛辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d80.h1s1
+    span:
+    - body
+    - 931
+    - 936
+  label: 腹痛諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d81.h1s1
+    span:
+    - body
+    - 936
+    - 941
+  label: 腰痛諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d82.h1s1
+    span:
+    - body
+    - 941
+    - 949
+  label: 風寒濕熱四痹證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d83.h1s1
+    span:
+    - body
+    - 949
+    - 953
+  label: 諸痹證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d84.h1s1
+    span:
+    - body
+    - 953
+    - 976
+  label: 行痹支飲痹辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d85.h1s1
+    span:
+    - body
+    - 976
+    - 981
+  label: 腳氣腳腫辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d86.h1s1
+    span:
+    - body
+    - 981
+    - 988
+  label: 太陽風痙二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d87.h1s1
+    span:
+    - body
+    - 988
+    - 994
+  label: 痙項強二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d88.h1s1
+    span:
+    - body
+    - 994
+    - 1000
+  label: 痙外因內因辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d89.h1s1
+    span:
+    - body
+    - 1000
+    - 1005
+  label: 瘈瘲諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d90.h1s1
+    span:
+    - body
+    - 1005
+    - 1015
+  label: 鶴滕風筋攣腳氣三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d91.h1s1
+    span:
+    - body
+    - 1015
+    - 1022
+  label: 眩暈鬱冒三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d92.h1s1
+    span:
+    - body
+    - 1022
+    - 1030
+  label: 癲狂癇譫妄四證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d93.h1s1
+    span:
+    - body
+    - 1030
+    - 1034
+  label: 譫妄語辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d94.h1s1
+    span:
+    - body
+    - 1034
+    - 1039
+  label: 驚恐二證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d95.h1s1
+    span:
+    - body
+    - 1039
+    - 1041
+  label: 汗辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d96.h1s1
+    span:
+    - body
+    - 1041
+    - 1066
+  label: 發汗自盜汗辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d97.h1s1
+    span:
+    - body
+    - 1066
+    - 1072
+  label: 頭汗手足汗辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d98.h1s1
+    span:
+    - body
+    - 1072
+    - 1079
+  label: 寐瞑臥安四證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d99.h1s1
+    span:
+    - body
+    - 1079
+    - 1088
+  label: 多臥嗜但欲寐三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d100.h1s1
+    span:
+    - body
+    - 1088
+    - 1095
+  label: 消渴口渴嗌乾辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d101.h1s1
+    span:
+    - body
+    - 1095
+    - 1100
+  label: 強中筋疝辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d102.h1s1
+    span:
+    - body
+    - 1100
+    - 1111
+  label: 傷寒下痢常病泄瀉諸證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d103.h1s1
+    span:
+    - body
+    - 1111
+    - 1114
+  label: 泄痢辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d104.h1s1
+    span:
+    - body
+    - 1114
+    - 1127
+  label: 大便燥大便難大便實大便秘辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d105.h1s1
+    span:
+    - body
+    - 1127
+    - 1130
+  label: 癃淋辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d106.h1s1
+    span:
+    - body
+    - 1130
+    - 1135
+  label: 癃閉關格辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d107.h1s1
+    span:
+    - body
+    - 1135
+    - 1140
+  label: 溺秘轉脬辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d108.h1s1
+    span:
+    - body
+    - 1140
+    - 1153
+  label: 小便秘小便少便難小便淋瀝辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d109.h1s1
+    span:
+    - body
+    - 1153
+    - 1158
+  label: 膏淋白濁辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d110.h1s1
+    span:
+    - body
+    - 1158
+    - 1163
+  label: 氣淋胞痹辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d111.h1s1
+    span:
+    - body
+    - 1163
+    - 1170
+  label: 小便不禁遺溺辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d112.h1s1
+    span:
+    - body
+    - 1170
+    - 1175
+  label: 夢遺漏精辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d113.h1s1
+    span:
+    - body
+    - 1175
+    - 1182
+  label: 白濁小水渾濁辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d114.h1s1
+    span:
+    - body
+    - 1182
+    - 1185
+  label: 囊縮辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d115.h1s1
+    span:
+    - body
+    - 1185
+    - 1190
+  label: 寒疝木腎辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d116.h1s1
+    span:
+    - body
+    - 1190
+    - 1195
+  label: 水疝㿗疝辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d117.h1s1
+    span:
+    - body
+    - 1195
+    - 1200
+  label: 沖疝奔豚辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d118.h1s1
+    span:
+    - body
+    - 1200
+    - 1227
+  label: 厥疝寒疝辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d119.h1s1
+    span:
+    - body
+    - 1227
+    - 1234
+  label: 內障外障青盲辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d120.h1s1
+    span:
+    - body
+    - 1234
+    - 1240
+  label: 目昏目暗眩辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d121.h1s1
+    span:
+    - body
+    - 1240
+    - 1245
+  label: 耳龍耳閉辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d122.h1s1
+    span:
+    - body
+    - 1245
+    - 1252
+  label: 鼻鼾鼻淵腦漏辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d123.h1s1
+    span:
+    - body
+    - 1252
+    - 1259
+  label: 鼻流白涕黃水辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d124.h1s1
+    span:
+    - body
+    - 1259
+    - 1267
+  label: 牙齒出膿血四證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d125.h1s1
+    span:
+    - body
+    - 1267
+    - 1272
+  label: 重舌木舌辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d126.h1s1
+    span:
+    - body
+    - 1272
+    - 1275
+  label: 舌胎辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d127.h1s1
+    span:
+    - body
+    - 1275
+    - 1285
+  label: 喉痹喉閉咽腫咽嗌痛辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d128.h1s1
+    span:
+    - body
+    - 1285
+    - 1290
+  label: 咽痛喉瘡辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d129.h1s1
+    span:
+    - body
+    - 1290
+    - 1297
+  label: 經水淋瀝崩漏辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d130.h1s1
+    span:
+    - body
+    - 1297
+    - 1304
+  label: 錯經妄行血溢辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d131.h1s1
+    span:
+    - body
+    - 1304
+    - 1308
+  label: 帶下證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d132.h1s1
+    span:
+    - body
+    - 1308
+    - 1314
+  label: 產後鬱冒暈辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d133.h1s1
+    span:
+    - body
+    - 1314
+    - 1319
+  label: 腸覃疝瘕辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d134.h1s1
+    span:
+    - body
+    - 1319
+    - 1324
+  label: 石瘕宓瘕辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d135.h1s1
+    span:
+    - body
+    - 1324
+    - 1329
+  label: 虛勞三證辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d136.h1s1
+    span:
+    - body
+    - 1329
+    - 1335
+  label: 郁風血三痛辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d137.h1s1
+    span:
+    - body
+    - 1335
+    - 1342
+  label: 寒熱如瘧二症辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d138.h1s1
+    span:
+    - body
+    - 1342
+    - 1347
+  label: 血分水分辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d139.h1s1
+    span:
+    - body
+    - 1347
+    - 1352
+  label: 經閉妊娠辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d140.h1s1
+    span:
+    - body
+    - 1352
+    - 1357
+  label: 漏胎行經辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb008_jc_000-d141.h1s1
+    span:
+    - body
+    - 1357
+    - 1363
+  label: 附虛症用藥法
+  type: section
+  level: 1
+hash: sha256:f388dfd4e0e31369b1b4d70aa5bb8a6ee63e92fd75203fd616850100a038b27f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
