@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb008_000.yaml, hash: 'sha256:8c8b3514148ba6d410cf55a182a03515cc91006f9ba28ed715767ecddafdf946'}
+  - {seq: 0, filename: KR3eb008_000.yaml, hash: 'sha256:7ef5c780627c523a0703b72f8a91fe834709256e9d9f67246debb1769de0e375'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb008_000.markers.yaml, hash: 'sha256:4a96982be895a33660462caac4d91be5e8b9ce71bf4aae158fedc63e4a645274'}
+  - {seq: 0, role: markers, filename: assets/KR3eb008_000.markers.yaml, hash: 'sha256:e04b1df091b86f9531a92952387a40aa55de7845d48f125487e8060e9f44bf9b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1421,7 +1421,4 @@ table_of_contents:
   label: 附虛症用藥法
   type: section
   level: 1
-hash: sha256:f388dfd4e0e31369b1b4d70aa5bb8a6ee63e92fd75203fd616850100a038b27f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5876472123ec2b81441de632fd043e40aa43cee16f14776f9ef7499507c20abf
