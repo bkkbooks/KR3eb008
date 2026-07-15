@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb008/v1
 canonical_location: https://kanripo.org/bkk/KR3eb008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫階辨證
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb008_000.yaml, hash: 'sha256:7ef5c780627c523a0703b72f8a91fe834709256e9d9f67246debb1769de0e375'}
+  - {seq: 0, filename: KR3eb008_000.yaml, hash: 'sha256:8c8b3514148ba6d410cf55a182a03515cc91006f9ba28ed715767ecddafdf946'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb008_000.markers.yaml, hash: 'sha256:e04b1df091b86f9531a92952387a40aa55de7845d48f125487e8060e9f44bf9b'}
+  - {seq: 0, role: markers, filename: assets/KR3eb008_000.markers.yaml, hash: 'sha256:8d1703eb5719f1d15f8a413b9c4c25dbf181d86aa9f20d9a8d3128649adba831'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1421,4 +1421,7 @@ table_of_contents:
   label: 附虛症用藥法
   type: section
   level: 1
-hash: sha256:5876472123ec2b81441de632fd043e40aa43cee16f14776f9ef7499507c20abf
+hash: sha256:622334e8870ee32776ddd480f6bf97fea16694b09fda85633f86a55b222a8f82
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
